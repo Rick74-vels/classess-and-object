@@ -1,5 +1,5 @@
 # classess-and-object
 # Practices in Object Oriented PHP
-# A beginners guid example code
+# A beginners guide example code
 # With helpful comments
 # Good Luck!
